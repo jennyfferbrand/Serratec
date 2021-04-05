@@ -1,6 +1,6 @@
 // Sobre a empresa Alterdata
 
-var x = 30
+var x = 31
 
 console.log("A empresa Altedata tem "  + x +  " anos!");
 
