@@ -7,6 +7,6 @@ var larissa = 23;
 var taiana = 26;
 var jennyffer = 20;
 
-var total = alice + giovanne + giulia + larissa + taiana + jennyffer
+var total = alice + giovanne + giulia + larissa + taiana + jennyffer;
 
-console.log(" A soma das idades dos integrantes do Squad é " +total+ ".")
+console.log(" A soma das idades dos integrantes do Squad é " +total+ ".");
